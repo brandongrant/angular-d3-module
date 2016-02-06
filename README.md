@@ -9,7 +9,7 @@ Inspired by [Angular-underscore-module](https://github.com/andresesfm/angular-un
 ``` <script src="bower_components/d3/d3.js"> ```
 
 ### 2. Install Angular-d3
-``` bower install angular-d3 ```
+``` bower install angular-d3-module ```
 
 ### 3. Add Angular-d3 in your project
 ```<script src="bower_components/angular-d3-module/angular-d3-module.js"></script>```
