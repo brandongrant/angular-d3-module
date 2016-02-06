@@ -4,5 +4,15 @@
   "main": "./angular-d3-module.js",
   "dependencies": {
     "d3": "*"
-  }
+  },
+  "homepage": "https://github.com/tanykim/angular-d3-module",
+  "authors": [
+    "Tanyoung Kim <tanyoung.kim@nokia.com>"
+  ],
+  "description": "using d3 as an injection in Angular",
+  "keywords": [
+    "Angular",
+    "D3"
+  ],
+  "license": "MIT"
 }
