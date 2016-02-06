@@ -20,7 +20,7 @@ Inspired by [Angular-underscore-module](https://github.com/andresesfm/angular-un
 
 ``` angular.module('myApp', ['d3'])```
 
-### 2. Add as an injected dependency to Conroller
+### 2. Add as an injected dependency to Controller
 
 ``` 
 angular.module('myApp')
@@ -28,7 +28,7 @@ angular.module('myApp')
 		'$scope', 
 		'd3', 
 		function ($scope, d3) {
-			//code using d3comes here
+			//code using d3 comes here
 		}
 	]);
 ```
