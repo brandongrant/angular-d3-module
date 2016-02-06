@@ -1,0 +1,8 @@
+{
+  "name": "angular-d3",
+  "version": "1.0.0",
+  "main": "./angular-d3.js",
+  "dependencies": {
+    "d3": "*"
+  }
+}
