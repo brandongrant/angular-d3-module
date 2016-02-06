@@ -1,4 +1,4 @@
-# angular-d3
+# angular-d3-module
 Angular D3 module to load D3 library in Angular controllers.
 
 Inspired by [Angular-underscore-module](https://github.com/andresesfm/angular-underscore-module])
@@ -12,7 +12,7 @@ Inspired by [Angular-underscore-module](https://github.com/andresesfm/angular-un
 ``` bower install angular-d3 ```
 
 ### 3. Add Angular-d3 in your project
-```<script src="bower_components/angular-d3/angular-d3.js"></script>```
+```<script src="bower_components/angular-d3-module/angular-d3-module.js"></script>```
 
 ## Use in Angular
 
